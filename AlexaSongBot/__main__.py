@@ -36,6 +36,10 @@ async def start(client, message):
                 [
                     InlineKeyboardButton(
                         text="🔳 Source Code 🔳", url="https://github.com/Mr-Dark-Prince/AlexaSongBot"
+                        
+                        text="🔳 Source Code 🔳", url="https://github.com/Mr-Dark-Prince/AlexaSongBot"
+                    
+                       
                     )
                 ]
             ]
