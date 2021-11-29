@@ -11,8 +11,13 @@ from AlexaSongBot.sql.chat_sql import add_chat_to_db
 
 start_text = """
 Hey [{}](tg://user?id={}),
-I'm Alexa 🤗
+I'm Alexa 🤗hjjsswknddjkdddjkdjsjsjsjsjjsjwjwkwjekkekeeeee
 Just send me the song name you want to download.
+hejeejejjkkdkdjdkfkfjk
+shdjdndkdndmmf
+hejeejejjkkdkdjdkfkfjk
+jsjdjdndjddjd
+jjdjdjjjjdjdjd
 Eg: ```/song Faded Alan Walker```
 """
 
