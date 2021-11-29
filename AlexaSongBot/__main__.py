@@ -42,18 +42,19 @@ async def start(client, message):
                     InlineKeyboardButton(
                         text="MY OFFICIAL GROUP", url="https://t.me/SLMUSICZONE1"
                     )
-                       InlineKeyboardButton(
-                        text="MY OFFICIAL GROUP", url="https://t.me/SLMUSICZONE1"
-                    )
+                       
+                        
+                    
             
                         
                         
-                    
 
-                    
+
+
                 ]
             ]
         )
+        
     else:
         btn = None
     await message.reply(start_text.format(name, user_id), reply_markup=btn)
