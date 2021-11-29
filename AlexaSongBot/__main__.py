@@ -39,8 +39,9 @@ async def start(client, message):
         btn = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton(
-                        text="🔳 Source Code 🔳", url="https://github.com/Mr-Dark-Prince/AlexaSongBot"
+                    (
+                       InlineKeyboardButton("Option 1"),
+            InlineKeyboardButton("Option 2"),
                         
                         
                     
