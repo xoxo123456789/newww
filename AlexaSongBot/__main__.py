@@ -16,7 +16,7 @@ Just send me the song name you want to download.
 hejeejejjkkdkdjdkfkfjk
 shdjdndkdndmmf
 hejeejejjkkdkdjdkfkfjk
-jsjdjdndjddjd
+jsjdjdndjddj
 jjdjdjjjjdjdjd
 Eg: ```/song Faded Alan Walker```
 """
@@ -39,14 +39,18 @@ async def start(client, message):
         btn = InlineKeyboardMarkup(
             [
                 [
-                    (
-                       InlineKeyboardButton("Option 1"),
-            InlineKeyboardButton("Option 2"),
+                    InlineKeyboardButton(
+                        text="MY OFFICIAL GROUP", url="https://t.me/SLMUSICZONE1"
+                    )
+                       InlineKeyboardButton(
+                        text="MY OFFICIAL GROUP", url="https://t.me/SLMUSICZONE1"
+                    )
+            
                         
                         
                     
 
-                    )
+                    
                 ]
             ]
         )
